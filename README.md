@@ -1,4 +1,4 @@
-# HabitEase - Inclusão de neurodivergentes (TDAH) <img src="./codigo/public/assets/images/HabitEase.png" width="50">
+# HabitEase - Inclusão de neurodivergentes (TDAH) <img src="codigo/public/assets/images/logo_HabitEase.svg" width="50">
 
 HabiEase é um aplicativo web mobile de tarefas voltado ao público com TDAH. Suas principais diferenças abrange uma interface minimalista, gráficos de desempenho de tarefas, estímulos para  o usuário estar sempre utilizando o aplicativo com um sistema de rankeamento e rede social.
 
